@@ -3,7 +3,7 @@ import { initializeApp } from 'firebase/app'
 const firebaseConfig = {
 	apiKey: 'apiKey',
 	authDomain: 'authDomain',
-	projectId: 'auth-d9f00',
+	projectId: '',
 	storageBucket: 'projectId',
 	messagingSenderId: 'messagingSenderId',
 	appId: 'appId',
